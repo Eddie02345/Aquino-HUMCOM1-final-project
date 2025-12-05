@@ -67,6 +67,11 @@ img {
     display: block;
     border-radius: 8px;
     object-fit: cover;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 25px rgba(138, 173, 244, 0.8);
 }
 
 .header {
