@@ -187,3 +187,11 @@ img:hover {
     text-align: justify;
     line-height: 1.6;
 }
+
+.img-side {
+    display: flex;
+    align-items: center;     
+    padding: 20px 0;         
+    }
+
+
