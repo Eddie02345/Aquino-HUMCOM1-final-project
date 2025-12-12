@@ -10,10 +10,10 @@ The main goal of this project is to apply HCI concepts to web design. The websit
 
 * `aquino-HUMCOM1-final-project.html`: The main entry point of the website.
 * `style.css`: Contains all the styling rules (Flexbox/Grid).
-* `projects/`: Folder containing my project showcases.
-* `Lab/`: specific laboratory exercises from the course.
+* `projects/`: Folder containing my personal projects.
+* `Lab/`: Specific laboratory exercises from the course.
 * `Walls/`: Background images and assets (e.g., Asian village theme).
-* `handwritten/`: Custom assets or handwritten notes digitized for the site.
+* `handwritten/`: Handwritten activities digitized for the site.
 * `profile.jpg`: Personal profile picture used in the bio section.
 
 ## Technologies Used
